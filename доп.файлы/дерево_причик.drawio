@@ -1,0 +1,128 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.1">
+  <diagram id="-U4Rq2_LiVTU-U3_JhcS" name="Страница — 1">
+    <mxGraphModel dx="1967" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HNKaG11sOsc3vyj5DOX0-1" target="rKThlj-VnmYh2Qli6RmX-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="403" y="190" />
+              <mxPoint x="270" y="190" />
+              <mxPoint x="270" y="211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HNKaG11sOsc3vyj5DOX0-1" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;Слабая удовлетворённость клиентов услугами веб-хостинга IT-компании&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="80" width="206" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rKThlj-VnmYh2Qli6RmX-3" target="rKThlj-VnmYh2Qli6RmX-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="290" />
+              <mxPoint x="-129" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rKThlj-VnmYh2Qli6RmX-3" target="rKThlj-VnmYh2Qli6RmX-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Частые разрывы в соединении с сервером&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="180" y="210" width="166" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rKThlj-VnmYh2Qli6RmX-4" target="rKThlj-VnmYh2Qli6RmX-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rKThlj-VnmYh2Qli6RmX-4" target="rKThlj-VnmYh2Qli6RmX-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="537" y="290" />
+              <mxPoint x="950" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Долгое исправление ошибок&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="454" y="210" width="166" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.601;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HNKaG11sOsc3vyj5DOX0-1" target="rKThlj-VnmYh2Qli6RmX-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rKThlj-VnmYh2Qli6RmX-6" target="rKThlj-VnmYh2Qli6RmX-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rKThlj-VnmYh2Qli6RmX-6" target="rKThlj-VnmYh2Qli6RmX-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="400" />
+              <mxPoint x="-230" y="400" />
+              <mxPoint x="-230" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Неравномерное распределение трафика&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="320" width="142" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rKThlj-VnmYh2Qli6RmX-8" target="rKThlj-VnmYh2Qli6RmX-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rKThlj-VnmYh2Qli6RmX-8" target="rKThlj-VnmYh2Qli6RmX-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rKThlj-VnmYh2Qli6RmX-8" target="rKThlj-VnmYh2Qli6RmX-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="390" />
+              <mxPoint x="-10" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-8" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Низкая пропускная способность сети&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Большое количество запросов&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="420" width="142" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-12" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Устаревшее оборудование&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-117" y="420" width="142" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-15" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Покупка дешёвых тарифов у провайдера&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="60" y="420" width="142" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-16" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Некачественные сетевые карты&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="240" y="420" width="142" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-20" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Малое количество команд разработчиков&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="419" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-21" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Некомпетентность начальника отдела&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="610" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-22" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Отсутствие сотрудничающих поставщиков&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="800" y="419" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-23" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Отсутствие лицензии на данные технологии&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="960" y="419" width="160" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rKThlj-VnmYh2Qli6RmX-24" target="rKThlj-VnmYh2Qli6RmX-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rKThlj-VnmYh2Qli6RmX-24" target="rKThlj-VnmYh2Qli6RmX-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-24" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Плохое распределение обязанностей в отделе разработок&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="520" y="320" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rKThlj-VnmYh2Qli6RmX-25" target="rKThlj-VnmYh2Qli6RmX-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rKThlj-VnmYh2Qli6RmX-25" target="rKThlj-VnmYh2Qli6RmX-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKThlj-VnmYh2Qli6RmX-25" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Отсутствие требуемых технологий&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="870" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
